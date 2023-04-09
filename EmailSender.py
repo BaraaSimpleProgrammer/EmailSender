@@ -6,7 +6,6 @@ system("clear")
 You should unable 2-Step Verification, Then get your password from google apppasswords.
 
 """
-print("hello, world!")
 try:
     import smtplib
     import ssl
